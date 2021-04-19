@@ -1,6 +1,7 @@
 ROUTINE %ZSTART [Type=MAC]
 %ZSTART ; User startup routine.
 	quit
+    ; keep this as placeholder	
 #; cannot be invoked directly
 SYSTEM ;
 #; InterSystems IRIS starting
