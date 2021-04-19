@@ -7,7 +7,7 @@ SYSTEM ;
     do ^zECPinit
     quit
 LOGIN ;
-#; a user logs into InterSystems IRIS
+#; a user logs into InterSystems IRIS  
    quit
 JOB
 #; JOB'd process begins
