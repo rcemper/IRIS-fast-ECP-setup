@@ -8,9 +8,9 @@ services:
     restart: always
     
     ports: 
-      - '41773:1972'
-      - '42773:52773'
-      - '43773:53773'
+      - 1972
+      - 52773
+      - 53773
     volumes:
       - ./:/opt/irisapp
       
@@ -22,8 +22,8 @@ services:
     restart: always
     
     ports: 
-      - '41443:1972'
-      - '42443:52773'
-      - '43443:53773'
+      - 1972
+      - 52773
+      - 53773
     volumes:
       - ./:/opt/irisapp
