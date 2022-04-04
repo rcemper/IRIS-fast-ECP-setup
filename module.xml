@@ -3,11 +3,11 @@
   <Document name="iris-ecp-workbench.ZPM">
     <Module>
       <Name>iris-ecp-workbench</Name>
-      <Version>0.0.2</Version>
+      <Version>0.1.0</Version>
       <Description>Initialize ECP Server + Client Workbench</Description>
       <Keywords>Mirror</Keywords>
       <Packaging>module</Packaging>
-      <SourcesRoot>src</SourcesRoot>
+      <SourcesRoot>src/mac</SourcesRoot>
       <Resource Name="zECPinit.MAC"/>
       <Resource Name="%ZSTART.MAC"/>
     </Module>
