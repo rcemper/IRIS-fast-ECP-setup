@@ -72,4 +72,12 @@ So trying, testing, extending, screwing this workbench by
 __your own__ Classes, Tables, Data, Queries are ready to go.
 
  [Article in DC](https://community.intersystems.com/post/iris-easy-ecp-workbench)   
+ 
  [see Video](https://youtu.be/1TsQCUNjLu4)  
+
+### Code Quality    
+![](https://raw.githubusercontent.com/rcemper/IRIS-fast-ECP-setup/master/CodeQuality.JPG)
+
+**Demo Server os not ready for this ECP operation**
+
+
