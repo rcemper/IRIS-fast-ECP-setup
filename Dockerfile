@@ -9,7 +9,7 @@ WORKDIR /opt/irisapp
 
 RUN chmod 666 /usr/irissys/mgr/messages.log
 RUN chmod 666 /usr/irissys/mgr/iris.key 
-RUN chown irisowner:irisuser /opt/irisapp      
+RUN chown irisowner /opt/irisapp      
 
 USER irisowner
 
