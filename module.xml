@@ -3,7 +3,7 @@
   <Document name="iris-ecp-workbench.ZPM">
     <Module>
       <Name>iris-ecp-workbench</Name>
-      <Version>0.1.0</Version>
+      <Version>0.1.1</Version>
       <Description>Initialize ECP Server + Client Workbench</Description>
       <Keywords>Mirror</Keywords>
       <Packaging>module</Packaging>
