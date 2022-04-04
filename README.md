@@ -78,6 +78,6 @@ __your own__ Classes, Tables, Data, Queries are ready to go.
 ### Code Quality    
 ![](https://raw.githubusercontent.com/rcemper/IRIS-fast-ECP-setup/master/CodeQuality.JPG)
 
-**Demo Server os not ready for this ECP operation**
+**Demo Server is not available for this ECP operation**
 
 
