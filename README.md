@@ -76,7 +76,7 @@ __your own__ Classes, Tables, Data, Queries are ready to go.
  [see Video](https://youtu.be/1TsQCUNjLu4)  
 
 ### Code Quality    
-![](https://raw.githubusercontent.com/rcemper/IRIS-fast-ECP-setup/master/CodeQuality.JPG)
+<img width="85%" src="https://openexchange.intersystems.com/mp/img/packages/1781/screenshots/0royfpktfot3nddibg6qafkpjik.jpg">
 
 **Demo Server is not available for this ECP operation**
 
