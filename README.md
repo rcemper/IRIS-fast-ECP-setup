@@ -75,8 +75,8 @@ __your own__ Classes, Tables, Data, Queries are ready to go.
  
  [see Video](https://youtu.be/1TsQCUNjLu4)  
 
-[Demo Server SMP](https://iris-fast-ecp-setup.community.intersystems.com/csp/sys/UtilHome.csp)   
-[Demo Server WebTerminal](https://iris-fast-ecp-setup.community.intersystems.com/terminal/)    
+[Demo Server SMP](https://iris-fast-ecp-setup.demo.community.intersystems.com/csp/sys/UtilHome.csp)   
+[Demo Server WebTerminal](https://iris-fast-ecp-setup.demo.community.intersystems.com/terminal/)    
         
 ### Code Quality    
 <img width="85%" src="https://openexchange.intersystems.com/mp/img/packages/1781/screenshots/0royfpktfot3nddibg6qafkpjik.jpg">
