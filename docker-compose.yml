@@ -5,7 +5,7 @@ services:
     build: 
       context: .
       dockerfile: Dockerfile
-    command: --check-caps false --ISCSAgent false
+    command: --check-caps false --ISCAgent false
     restart: always
     
     ports: 
@@ -20,7 +20,7 @@ services:
     build: 
       context: .
       dockerfile: Dockerfile
-    command: --check-caps false --ISCSAgent false --before 'sleep 20' 
+    command: --check-caps false --ISCAgent false --before 'sleep 20' 
     restart: always
     
     ports: 
