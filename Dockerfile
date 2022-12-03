@@ -15,6 +15,7 @@ RUN chown irisowner /opt/irisapp
 USER irisowner
 
 COPY src src
+COPY user user
 COPY iris.script iris.script
 
 RUN iris start IRIS \
