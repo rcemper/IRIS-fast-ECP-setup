@@ -75,4 +75,4 @@ __your own__ Classes, Tables, Data, Queries are ready to go.
 
  [Article in DC](https://community.intersystems.com/post/iris-easy-ecp-workbench)   
  
- [see Video](https://youtu.be/1TsQCUNjLu4)  
+ [see Video](https://youtu.be/xJyJhQIcFlA)  
