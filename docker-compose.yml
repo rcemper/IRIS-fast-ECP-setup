@@ -1,4 +1,3 @@
-version: '3.6'
 services:
   server:
     hostname: server
@@ -29,3 +28,4 @@ services:
       - 53773
     volumes:
       - ./:/opt/irisapp
+
