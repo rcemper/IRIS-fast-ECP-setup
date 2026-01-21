@@ -5,10 +5,11 @@ __Purpose:__
 Testing ECP-based applications often take quite some effort for setup and preparation.  
 I have created a Docker-based workbench that allows you to have it quick at hands.  
 And if you crash it? You just give your containers a fresh start.  
-The whole setup runs code-based during the start-up of your instance.  
-In that sense, it is also a portable coding example using ZPM and the objectscript-docker-template  
+The whole setup runs code-based during the start-up of your instance.    
+In that sense, it is also a portable coding example using ZPM    
+and the objectscript-docker-template    
   
-It's a fast setup of ECP client / server with almost no manual intervention  
+It's a fast setup of ECP client / server with almost no manual intervention   
 with everything included in the repository available from OEX.  
 _Except:_   
 As the default community-license doesn't include multi-server-features (ECP) you might 
@@ -21,7 +22,7 @@ From terminal/command prompt  in the download directory run
       docker-compose build 
 ~~~
 And it will prepare __2__ containers for __ECPserver__ and __ECPclient.__   
-They are pretty much the same except that they get a hostname: server and client   
+They are pretty much the same except that they get a hostname: server and client    
 This allows communication between the containers based on network names  
 instead of dynamic (and unpredictable) DHCP addresses.  
 The internal ports for external access as SMP, ... _1972,52773,53773_ are published to  
@@ -38,7 +39,7 @@ For a simple reason I had to learn:
 The final hostname is not available in the temporary containers during the build!  
 And there is obviously a difference!  
   
-In addition, the client can only connect when the server finished startup. 
+In addition, the client can only connect when the server finished startup.   
 I experienced up to 120 sec until ECP was running stable and both startups completed.  
   
 Impatient people (as me) meanwhile watch the progress by  
@@ -77,4 +78,5 @@ __your own__ Classes, Tables, Data, Queries are ready to go.
  [Article in DC](https://community.intersystems.com/post/iris-easy-ecp-workbench)   
  
  [see Video](https://youtu.be/xJyJhQIcFlA)  
+
 
