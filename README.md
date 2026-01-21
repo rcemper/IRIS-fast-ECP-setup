@@ -1,4 +1,5 @@
-<p align="right"><img src="https://github.com/isc-at/CPIPE/blob/master/archived.jpg"/></p>
+<img src="https://community.intersystems.com/sites/default/files/inline/images/archived.gif" width=100></img>
+<b>&nbsp;no maintenance or update</b>  
 
 __Purpose:__   
 Testing ECP-based applications often take quite some effort for setup and preparation.  
@@ -76,3 +77,4 @@ __your own__ Classes, Tables, Data, Queries are ready to go.
  [Article in DC](https://community.intersystems.com/post/iris-easy-ecp-workbench)   
  
  [see Video](https://youtu.be/xJyJhQIcFlA)  
+
